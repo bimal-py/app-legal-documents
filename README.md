@@ -12,6 +12,9 @@ Each app has its own folder with its own legal documents, publicly accessible th
   - [Privacy Policy](https://bimal-py.github.io/app-legal-documents/callbreak-tracker/privacy-policy/)
   - [Terms & Conditions](https://bimal-py.github.io/app-legal-documents/callbreak-tracker/terms-and-conditions/)
 
+- **Bimir Lock**
+  - [Privacy Policy](https://bimal-py.github.io/app-legal-documents/bimir-lock/privacy-policy/)
+
 _(More apps will be added as separate folders.)_
 
 ---
